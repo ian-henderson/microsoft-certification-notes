@@ -4,7 +4,7 @@
 
 ### Describe cloud computing
 
-Using someone else's computer
+Cloud computing is the delivery of computing services -- including servers, storage, databases, networking, software, analytics, and intelligence -- over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping you lower your operating costs, run your infrastructure more effeciently, and scale as your business needs change.
 
 #### Define cloud computing
 
